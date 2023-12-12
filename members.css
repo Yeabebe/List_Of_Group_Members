@@ -1,0 +1,23 @@
+.members{
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  .group-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(116, 45, 145, 0.1);
+  }
+  
